@@ -27,4 +27,6 @@ PRODUCT_PACKAGES += \
     GoogleConfigOverlay \
     SystemUIGoogleOverlay \
     NavigationBarModeGesturalOverlayFS \
-    AOSPSettings
+    AOSPSettings \
+    AOSPSystemUI \
+    AOSPFrameworksOverlay
