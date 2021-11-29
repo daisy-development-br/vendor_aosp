@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright 2016-2021 Pixel-Experience
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+          http://www.apache.org/licenses/LICENSE-2.0
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <!-- Three-fingers-swipe to screenshot -->
+    <string name="three_finger_gesture">Deslizar para Capturar a Tela</string>
+    <string name="three_finger_gesture_summary">Deslize 3 dedos na tela para baixo para realizar uma captura de tela</string>
+
+    <!-- Advanced Reboot -->
+    <string name="global_actions_advanced_reboot_title">Reinicialização avançada</string>
+    <string name="global_actions_advanced_reboot_summary">Mostrar opções de reinicialização avançada no menu de energia</string>
+
+    <!-- Quick Settings brightness slider -->
+    <string name="qs_brightness_slider_title">Mostrar a barra de brilho</string>
+    <string name="qs_brightness_slider_summary">Mostrar a barra de brilho no painel de configurações rápidas</string>
+    <string name="qs_brightness_position_bottom_title">Mostrar na parte inferior</string>
+    <string name="qs_brightness_position_bottom_summary">Mostrar a barra de brilho na parte inferior do painel de configurações rápidas</string>
+
+    <!-- Quick Settings brightness icon -->
+    <string name="brightness_icon_title">Botão de brilho adaptável</string>
+    <string name="brightness_icon_summary">Mostrar o botão de brilho adaptável na barra de brilho</string>
+
+   <!-- Battery Settings -->
+    <string name="battery_settings_title">Configurações do indicador de bateria</string>   
+
+    <!-- Battery Styles -->
+    <string name="battery_style_category_title">Opções do indicador de bateria</string>
+    <string name="battery_style_category_summary">Estilo do indicador de bateria</string>
+    <string name="battery_percent_title">Configurações do indicador de porcentagem da bateria</string>
+
+    <!-- Status bar - Battery -->
+    <string name="status_bar_battery_style_title">Selecionar um estilo do indicador de bateria</string>
+    <string name="status_bar_battery_style_icon_portrait">Icone Retrato (padrão)</string>
+    <string name="status_bar_battery_style_circle">Circulo</string>
+    <string name="status_bar_battery_style_dotted_circle">Circulo (Pontilhado)</string>
+    <string name="status_bar_battery_style_filled_circle">Circulo (Completo)</string>
+    <string name="status_bar_battery_style_text">Somente a porcentagem</string>
+    <string name="status_bar_battery_style_hidden">Oculto</string>
+
+    <!-- Status bar - Battery percentage -->
+    <string name="status_bar_battery_percentage_title">Indicador de porcentagem da bateria</string>
+    <string name="status_bar_battery_percentage_default">Oculto (Padrão)</string>
+    <string name="status_bar_battery_percentage_text_inside">Dentro do icone de bateria</string>
+    <string name="status_bar_battery_percentage_text_next">Próximo ao icone de bateria</string>
+
+    <!-- Fullscreen gestures -->
+    <string name="other_controls_title">Outros Controles</string>
+    <string name="fullscreen_gestures_title">Gestos em tela cheia</string>
+    <string name="fullscreen_gestures_summary">Ocultar a barra de navegação</string>
+</resources>

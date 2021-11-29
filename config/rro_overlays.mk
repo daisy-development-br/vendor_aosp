@@ -26,4 +26,5 @@ PRODUCT_PACKAGES += \
     PixelFwResOverlay \
     GoogleConfigOverlay \
     SystemUIGoogleOverlay \
-    NavigationBarModeGesturalOverlayFS
+    NavigationBarModeGesturalOverlayFS \
+    AOSPSettings
