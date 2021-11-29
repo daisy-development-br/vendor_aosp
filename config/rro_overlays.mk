@@ -29,7 +29,9 @@ PRODUCT_PACKAGES += \
     GesturalNavigationOverlayLong \
     GesturalNavigationOverlayMedium \
     NavigationBarNoHintOverlay \
-    AOSPSettingsOverlay
+    AOSPSettingsOverlay \
+    AOSPSystemUI \
+    AOSPFrameworksOverlay
 
 ifeq ($(TARGET_INCLUDE_LIVE_WALLPAPERS),true)
 PRODUCT_PACKAGES += \
