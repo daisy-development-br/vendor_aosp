@@ -57,4 +57,8 @@
     <string name="other_controls_title">Outros Controles</string>
     <string name="fullscreen_gestures_title">Gestos em tela cheia</string>
     <string name="fullscreen_gestures_summary">Ocultar a barra de navegação</string>
+
+    <!-- Volume rocker music control -->
+    <string name="volume_button_music_control_title">Controle de Reprodução</string>
+    <string name="volume_button_music_control_summary">Se a tela estiver desligada, pressionar e segurar os botões de volume irá pular a música atual</string>
 </resources>
