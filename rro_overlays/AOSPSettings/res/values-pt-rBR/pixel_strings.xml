@@ -61,4 +61,14 @@
     <!-- Volume rocker music control -->
     <string name="volume_button_music_control_title">Controle de Reprodução</string>
     <string name="volume_button_music_control_summary">Se a tela estiver desligada, pressionar e segurar os botões de volume irá pular a música atual</string>
+
+    <!-- Double Tap to Sleep Statusbar -->
+    <string name="double_tap_sleep_gesture_title">Toque para dormir</string>
+    <string name="double_tap_sleep_gesture_summary">Dê um duplo toque na barra de status para apagar a tela</string>
+
+    <!-- Display tap to wake custom summary -->
+    <string name="tap_to_wake_summary_pixel">Dê um duplo toque na tela de bloqueio para apagar a tela</string>
+
+    <!-- Battery light -->
+    <string name="battery_light_title">Acender o Led de notificações ao carregar</string>
 </resources>
