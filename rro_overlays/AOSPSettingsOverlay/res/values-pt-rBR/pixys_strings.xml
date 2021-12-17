@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright 2020 Pixys OS Project
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+          http://www.apache.org/licenses/LICENSE-2.0
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <!-- PixysOS version preference -->
+    <string name="pixys_version">"Versão da PixysOS"</string>
+    <string name="build_date">"Data da Compilação"</string>
+
+    <!-- String for removal of sensitive info on about, depending on tap -->
+    <string name="device_info_protected_single_press">Aperte para mostrar mais informações</string>
+
+    <!-- Three-fingers-swipe to screenshot -->
+    <string name="three_finger_gesture">Deslizar para Capturar a Tela</string>
+    <string name="three_finger_gesture_summary">Deslize 3 dedos na tela para baixo para realizar uma captura de tela</string>
+
+    <!-- Density category -->
+    <string name="density_category">Opções de densidade do display</string>
+
+    <!-- Volume rocker music control -->
+    <string name="volume_button_music_control_title">Controle de Reprodução</string>
+    <string name="volume_button_music_control_summary">Se a tela estiver desligada, pressionar e segurar os botões de volume irá pular a música atual</string>
+
+    <!-- Battery stats reset -->
+    <string name="battery_stats_reset">Resetar status da bateria</string>
+    <string name="battery_stats_message">As estatísticas do histórico da bateria serão redefinidas</string>
+
+    <!-- Lock screen pattern size -->
+    <string name="lock_pattern_size_3" translatable="false">3 \u00d7 3</string>
+    <string name="lock_pattern_size_4" translatable="false">4 \u00d7 4</string>
+    <string name="lock_pattern_size_5" translatable="false">5 \u00d7 5</string>
+    <string name="lock_pattern_size_6" translatable="false">6 \u00d7 6</string>
+    <string name="lock_settings_picker_pattern_size_message">Escolha o tamanho da grade do padrão</string>
+    <!-- Whether a visible red line will be drawn after the user has drawn the unlock pattern incorrectly -->
+    <string name="lockpattern_settings_enable_error_path_title">Exibir erro do padrão</string>
+    <!-- Whether the dots will be drawn when using the lockscreen pattern -->
+    <string name="lockpattern_settings_enable_dots_title">Exibir pontos do padrão</string>
+
+    <!-- Scramble pin -->
+    <string name="unlock_scramble_pin_layout_title">Embaralhar números do PIN</string>
+    <string name="unlock_scramble_pin_layout_summary">Embaralhar números do PIN ao desbloquear o dispositivo</string>
+
+    <!-- Themes -->
+    <string name="themes_title">Temas</string>
+    <string name="themes_summary">Monet, um artista que pinta..</string>
+
+    <!-- Monet Engine -->
+    <string name="monet_engine_custom_color_title">Usar cores customizadas</string>
+    <string name="monet_engine_custom_color_summary">Usar cores customizadas para o Monet, ao invés de usar as cores do papel de parede</string>
+    <string name="monet_engine_color_override_title">Cores Customizadas</string>
+    <string name="monet_engine_white_luminance_user_title">Luminância branca</string>
+    <string name="monet_engine_accurate_shades_title">Usar sombras precisas</string>
+    <string name="monet_engine_chroma_factor_title">Fator Chroma</string>
+    <string name="monet_engine_linear_lightness_title">Usar leveza linear</string>
+
+    <!-- Navbar length -->
+    <string name="navbar_length">Tamanho da barra de gesto</string>
+    <string name="short_label">Curta</string>
+    <string name="long_label">Longa</string>
+
+    <!-- Navigation bar hint -->
+    <string name="show_navbar_gesture_bar_title">Barra de Gestos</string>
+    <string name="show_navbar_gesture_bar_summary">Exibir a barra de gestos na parte inferior da tela</string>
+
+    <!-- SELinux Status -->
+    <string name="selinux_status">Status do SELinux</string>
+    <string name="selinux_status_disabled">Desligado</string>
+    <string name="selinux_status_permissive">Permissivo</string>
+    <string name="selinux_status_enforcing">Impondo</string>
+
+    <!-- Quick Settings brightness slider -->
+    <string name="qs_brightness_slider_title">Mostrar a barra de brilho</string>
+    <string name="qs_brightness_slider_summary">Mostrar a barra de brilho no painel de configurações rápidas</string>
+    <string name="qs_brightness_position_bottom_title">Mostrar na parte inferior</string>
+    <string name="qs_brightness_position_bottom_summary">Mostrar a barra de brilho na parte inferior do painel de configurações rápidas</string>
+
+    <!-- Quick Settings brightness icon -->
+    <string name="brightness_icon_title">Botão de brilho adaptável</string>
+    <string name="brightness_icon_summary">Mostrar o botão de brilho adaptável na barra de brilho</string>
+
+    <!-- Advanced Reboot -->
+    <string name="global_actions_advanced_reboot_title">Reinicialização avançada</string>
+    <string name="global_actions_advanced_reboot_summary">Mostrar opções de reinicialização avançada no menu de energia</string>
+
+   <!-- Battery Settings -->
+    <string name="battery_settings_title">Configurações do indicador de bateria</string>   
+
+    <!-- Battery Styles -->
+    <string name="battery_style_category_title">Opções do indicador de bateria</string>
+    <string name="battery_style_category_summary">Estilo do indicador de bateria</string>
+    <string name="battery_percent_title">Configurações do indicador de porcentagem da bateria</string>
+
+    <!-- Status bar - Battery -->
+    <string name="status_bar_battery_style_title">Selecionar um estilo do indicador de bateria</string>
+    <string name="status_bar_battery_style_icon_portrait">Icone Retrato (Padrão)</string>
+    <string name="status_bar_battery_style_circle">Circulo</string>
+    <string name="status_bar_battery_style_dotted_circle">Circulo (Pontilhado)</string>
+    <string name="status_bar_battery_style_filled_circle">Circulo (Completo)</string>
+    <string name="status_bar_battery_style_text">Somente a porcentagem</string>
+    <string name="status_bar_battery_style_hidden">Oculto</string>
+
+    <!-- Status bar - Battery percentage -->
+    <string name="status_bar_battery_percentage_title">Indicador de porcentagem da bateria</string>
+    <string name="status_bar_battery_percentage_default">Oculto (Padrão)</string>
+    <string name="status_bar_battery_percentage_text_inside">Dentro do icone de bateria</string>
+    <string name="status_bar_battery_percentage_text_next">Próximo ao icone de bateria</string>
+</resources>

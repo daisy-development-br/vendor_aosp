@@ -28,7 +28,8 @@ PRODUCT_PACKAGES += \
     SystemUIGoogleOverlay \
     GesturalNavigationOverlayLong \
     GesturalNavigationOverlayMedium \
-   NavigationBarNoHintOverlay
+    NavigationBarNoHintOverlay \
+    AOSPSettingsOverlay
 
 ifeq ($(TARGET_INCLUDE_LIVE_WALLPAPERS),true)
 PRODUCT_PACKAGES += \
