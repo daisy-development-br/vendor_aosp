@@ -114,4 +114,8 @@
     <string name="status_bar_battery_percentage_default">Oculto (Padrão)</string>
     <string name="status_bar_battery_percentage_text_inside">Dentro do icone de bateria</string>
     <string name="status_bar_battery_percentage_text_next">Próximo ao icone de bateria</string>
+
+    <!-- Lockscreen media art -->
+    <string name="keygaurd_media_art_title">Capa na tela de bloqueio</string>
+    <string name="keygaurd_media_art_summary">Mostrar a capa da música na tela de bloqueio</string>
 </resources>
